@@ -477,4 +477,3 @@ rubik_solve_asm:                            # int rubik_solve(const char *state,
     .byte 82, 66, 68    # 'R', 'B', 'D'
 .Lturn_char:
     .byte 0, 50, 39    # none, '2', '\''
-    
